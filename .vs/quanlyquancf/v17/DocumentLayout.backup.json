@@ -1,38 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Nhom5_WindowForm\\",
+  "WorkspaceRootPath": "C:\\Users\\Trant\\Nhom5_WindowForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\quanlycafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\quanlycafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C426D330-EA60-4FEE-863A-8B8E9DDCEC3F}|chuongtrinhquanly.Models\\chuongtrinhquanly.Models.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C426D330-EA60-4FEE-863A-8B8E9DDCEC3F}|chuongtrinhquanly.Models\\chuongtrinhquanly.Models.csproj|solutionrelative:chuongtrinhquanly.models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\tghoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\tghoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.ui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|solutionrelative:chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\danhsachncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\danhsachncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\hoadonnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\hoadonban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|c:\\users\\administrator\\nhom5_windowform\\chuongtrinhquanly.ui\\thoigian_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2946981D-E253-4ECB-A7E2-07B05A17D730}|chuongtrinhquanly.UI\\chuongtrinhquanly.UI.csproj|solutionrelative:chuongtrinhquanly.ui\\thoigian_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|solutionrelative:chuongtrinhquanly.bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\FormHoaDon.cs",
+              "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\FormHoaDon.cs [Design]",
+              "RelativeToolTip": "chuongtrinhquanly.UI\\FormHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:33:24.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanly.Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.Models\\HoaDon.cs",
+              "RelativeToolTip": "chuongtrinhquanly.Models\\HoaDon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:31:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanly.DAL\\HoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "chuongtrinhquanly.DAL\\HoaDonDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:29:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "chuongtrinhquanly.BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "chuongtrinhquanly.BLL\\HoaDonBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:26:56.053Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -51,102 +86,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Quanlycafe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\Quanlycafe.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\Quanlycafe.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\Quanlycafe.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\Quanlycafe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:16:41.936Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "nhanvien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\nhanvien.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\nhanvien.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\nhanvien.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\nhanvien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T10:00:42.171Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "danhsachncc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\danhsachncc.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\danhsachncc.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\danhsachncc.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\danhsachncc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:53:48.338Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "hoadonnhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\hoadonnhap.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\hoadonnhap.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\hoadonnhap.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\hoadonnhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:46:41.615Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "hoadonban.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\hoadonban.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\hoadonban.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\hoadonban.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\hoadonban.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:36:34.553Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dangnhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\dangnhap.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\dangnhap.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\dangnhap.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\dangnhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:25:48.691Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "thoigian_KH.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\thoigian_KH.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\thoigian_KH.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\thoigian_KH.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\thoigian_KH.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:22:17.756Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "tghoadonban.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\tghoadonban.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.UI\\tghoadonban.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Nhom5_WindowForm\\chuongtrinhquanly.UI\\tghoadonban.cs [Design]",
-              "RelativeToolTip": "chuongtrinhquanly.UI\\tghoadonban.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T08:46:21.841Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

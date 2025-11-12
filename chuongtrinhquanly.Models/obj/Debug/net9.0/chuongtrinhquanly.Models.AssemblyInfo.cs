@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chuongtrinhquanly.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f12cf67d9882b7d03283427849e79720c2d9631")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e34a4d1b7c7a0c299c443b2813775c93c3f2fae")]
 [assembly: System.Reflection.AssemblyProductAttribute("chuongtrinhquanly.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chuongtrinhquanly.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
