@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{C426D330-EA60-4FEE-863A-8B8E9DDCEC3F}|chuongtrinhquanly.Models\\chuongtrinhquanly.Models.csproj|solutionrelative:chuongtrinhquanly.models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|solutionrelative:chuongtrinhquanly.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|solutionrelative:chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48F326B-F14D-4D06-8FE7-187CE79B6D81}|chuongtrinhquanly.BLL\\chuongtrinhquanly.BLL.csproj|solutionrelative:chuongtrinhquanly.bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|c:\\users\\trant\\nhom5_windowform\\chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89BD8B62-F517-43AD-A3CA-176C33DC91F1}|chuongtrinhquanly.DAL\\chuongtrinhquanly.DAL.csproj|solutionrelative:chuongtrinhquanly.dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "chuongtrinhquanly.BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.BLL\\Class1.cs",
-              "RelativeToolTip": "chuongtrinhquanly.BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:19:45.366Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HoaDonDAL.cs",
               "DocumentMoniker": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.DAL\\HoaDonDAL.cs",
               "RelativeDocumentMoniker": "chuongtrinhquanly.DAL\\HoaDonDAL.cs",
               "ToolTip": "C:\\Users\\Trant\\Nhom5_WindowForm\\chuongtrinhquanly.DAL\\HoaDonDAL.cs",
               "RelativeToolTip": "chuongtrinhquanly.DAL\\HoaDonDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-12T12:29:29.454Z",
               "EditorCaption": ""
