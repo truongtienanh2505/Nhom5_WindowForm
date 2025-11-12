@@ -1,0 +1,12 @@
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\bin\Debug\net9.0\chuongtrinhquanly.Models.deps.json
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\bin\Debug\net9.0\chuongtrinhquanly.Models.dll
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\bin\Debug\net9.0\chuongtrinhquanly.Models.pdb
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.AssemblyInfo.cs
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.sourcelink.json
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.dll
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\refint\chuongtrinhquanly.Models.dll
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\chuongtrinhquanly.Models.pdb
+C:\Users\Administrator\Nhom5_WindowForm\chuongtrinhquanly.Models\obj\Debug\net9.0\ref\chuongtrinhquanly.Models.dll
